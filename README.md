@@ -1,4 +1,4 @@
-##Myers-Briggs Personality Type-Analysis
+## Myers-Briggs Personality Type-Analysis
 
 In this github you will find our teams Analysis of Myers-Briggs Personality classifications you will see from our graphics the personality type that is most common and those personalities that are so rare that make up just .083 of the posts. 
 
