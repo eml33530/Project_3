@@ -8,6 +8,8 @@ Step 1: For this exercise you will have to download the following imports:
 
 
 Step 2: The team began the clean-up process of the data
+
+
     - First load in the CSV data 
     - Next we setup the groupby for the data
     
