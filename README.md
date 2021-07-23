@@ -4,7 +4,7 @@ In this github you will find our teams Analysis of Myers-Briggs Personality clas
 
 Step 1: For this exercise you will have to download the following imports:
 
-[Imports](https://github.com/eml33530/Project_3/blob/main/PNG%20FIles/imports.PNG)
+(https://github.com/eml33530/Project_3/blob/main/PNG%20FIles/imports.PNG)
 
 
 Step 2: The team began the clean-up process of the data
