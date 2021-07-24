@@ -2,11 +2,11 @@
 
 In this github you will find our teams analysis of Myers-Briggs Personality classifications you will see from our graphics the personality type that is most common and those personalities that are so rare that make up just .083 of the posts. 
 
-Please find the link to complete the Personality Test to deteremine whay your personality type is: https://www.16personalities.com/free-personality-test
+Please find the link to complete the Personality Test to deteremine whay your personality type is: [Myers-Briggs](https://www.16personalities.com/free-personality-test)
 
 Step 1: For this exercise you will have to download the following imports:
 
-(https://github.com/eml33530/Project_3/blob/main/PNG%20FIles/imports.PNG)
+[Imports](https://github.com/eml33530/Project_3/blob/main/PNG%20FIles/imports.PNG)
 
 
 Step 2: The team began the clean-up process of the data
