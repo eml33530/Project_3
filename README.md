@@ -25,5 +25,6 @@ Please see Tables of Contents below:
 1. [Images](https://github.com/eml33530/Project_3/tree/main/PNG%20FIles)- A compilation of the visualizations created to interpret results
 2. [Data Source](https://github.com/eml33530/Project_3/tree/main/Resources) - Contains the CSV that was used as the main data source for the project
 3. [Working Files](https://github.com/eml33530/Project_3/tree/main/WorkingVersions) - NLP working file in order to compile a final cleaned up code. 
+4. [frontend](https://github.com/eml33530/Project_3/tree/main/frontend) - Cointains the code necessary to deploy our Personality NFT Marketplace.
 
 
