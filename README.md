@@ -28,3 +28,13 @@ Please see Tables of Contents below:
 4. [Frontend](https://github.com/eml33530/Project_3/tree/main/frontend) - Cointains the code necessary to deploy our Personality NFT Marketplace.
 
 
+
+# PersonalityMarket
+
+## Summary
+
+This application is an online auction system where you can bid on your specified Personality NFT.
+
+### Demo App
+
+Click [here](https://jacobj215.github.io/personality-market/frontend/index.html) to launch the PersonalityMarket application.
