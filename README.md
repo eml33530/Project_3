@@ -42,7 +42,58 @@ Click [here](https://jacobj215.github.io/personality-market/frontend/index.html)
 
 ## PersonalityMarket Testing Environment 
 
-Step 1. Deploy the PersonalityMarket 
+Step 1. Deploy the PersonalityMarket via the Kovan Test Net
 
 ![Deploy](PNG%20FIles/personality-auction/deploy-kv.png)
+
+Confirm deployment on Kovan Etherscan
+
+![Deploy](PNG%20FIles/personality-auction/deploy-tx.png)
+
+Step 2. Add a personality to the Personality Pool mapping 
+
+![Add Personality](PNG%20FIles/personality-auction/add-personality.png)
+
+Condirm transaction on Kovan Etherscan
+
+![Add Personality](PNG%20FIles/personality-auction/add-personality-tx.png)
+
+Step 3. Confirm the functionality of the Personality Pool mapping
+
+![Check Personality](PNG%20FIles/personality-auction/check-personality.png)
+
+Step 4. Repeat step 2 and 3 until you have added all 16 personalities to the Personality Pool
+
+View contract on Kovan Etherscan and condirm all 16 personalities have been added 
+
+![View contract](PNG%20FIles/personality-auction/personality-market-tx.png)
+
+Step 5. Create auction 
+
+![Create auction](PNG%20FIles/personality-auction/create-auction.png)
+
+Confirm via Kovan Etherscan 
+
+![Create auction](PNG%20FIles/personality-auction/create-auction-tx.png)
+
+Step 6. Place Bid
+
+![Place Bid](PNG%20FIles/personality-auction/place-bid.png)
+
+Confirm Bid via Kovan Etherscan 
+
+![Place Bid](PNG%20FIles/personality-auction/place-bid-tx.png)
+
+Step 7. Confirm Highest Bid
+
+![Highest Bid](PNG%20FIles/personality-auction/confirm-highestBid.png)
+
+Step 8. End auction
+
+![End Auction](PNG%20FIles/personality-auction/end-auction.png)
+
+Confirm the end of the auction and transfer of the token ID on Kovan Etherscan 
+
+![End Auction](PNG%20FIles/personality-auction/end-auction-tx.png)
+
 
