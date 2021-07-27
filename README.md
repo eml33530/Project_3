@@ -68,7 +68,7 @@ View contract on Kovan Etherscan and confirm that all 16 personalities have been
 
 ![View contract](PNG%20FIles/personality-auction/personality-market-tx.png)
 
-Call the balanceOf function to confirm the total supply
+Call the totalSupply function to confirm the total supply
 
 ![Total supply](PNG%20FIles/personality-auction/total-supply.png)
 
