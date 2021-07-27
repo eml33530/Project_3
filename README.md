@@ -62,9 +62,9 @@ Step 3. Confirm the functionality of the Personality Pool mapping
 
 ![Check Personality](PNG%20FIles/personality-auction/check-personality.png)
 
-Step 4. Repeat step 2 and 3 until you have added all 16 personalities to the Personality Pool
+Step 4. Repeat steps 2 and 3 until you have added all 16 personalities to the Personality Pool
 
-View contract on Kovan Etherscan and condirm all 16 personalities have been added 
+View contract on Kovan Etherscan and confirm that all 16 personalities have been added 
 
 ![View contract](PNG%20FIles/personality-auction/personality-market-tx.png)
 
@@ -92,7 +92,7 @@ Step 8. End auction
 
 ![End Auction](PNG%20FIles/personality-auction/end-auction.png)
 
-Confirm the end of the auction and transfer of the token ID on Kovan Etherscan 
+Confirm the end of the auction and the transfer of the token ID on Kovan Etherscan 
 
 ![End Auction](PNG%20FIles/personality-auction/end-auction-tx.png)
 
