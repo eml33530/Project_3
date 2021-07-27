@@ -54,7 +54,7 @@ Step 2. Add a personality to the Personality Pool mapping
 
 ![Add Personality](PNG%20FIles/personality-auction/add-personality.png)
 
-Condirm transaction on Kovan Etherscan
+Confirm transaction on Kovan Etherscan
 
 ![Add Personality](PNG%20FIles/personality-auction/add-personality-tx.png)
 
