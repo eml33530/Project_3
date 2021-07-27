@@ -97,4 +97,4 @@ Confirm the end of the auction and the transfer of the token ID on Kovan Ethersc
 ![End Auction](PNG%20FIles/personality-auction/end-auction-tx.png)
 
 
-[Project Presentation](https://docs.google.com/presentation/d/1MlCGuKfGs2WF97yYohh6I6yZrRNaMoVV68n_hK6E-gA/edit#slide=id.ge52f9e2bb4_0_158)
+[Project Presentation](https://docs.google.com/presentation/d/1MlCGuKfGs2WF97yYohh6I6yZrRNaMoVV68n_hK6E-gA/edit#slide=id.ge52f9e2bb4_0_220)
