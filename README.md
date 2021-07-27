@@ -68,6 +68,8 @@ View contract on Kovan Etherscan and confirm that all 16 personalities have been
 
 ![View contract](PNG%20FIles/personality-auction/personality-market-tx.png)
 
+![Total supply](PNG%20FIles/personality-auction/total-supply.png)
+
 Step 5. Create auction 
 
 ![Create auction](PNG%20FIles/personality-auction/create-auction.png)
