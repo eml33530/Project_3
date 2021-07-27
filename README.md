@@ -44,5 +44,5 @@ Click [here](https://jacobj215.github.io/personality-market/frontend/index.html)
 
 Step 1. Deploy the PersonalityMarket 
 
-![Deploy](PNG%FIles/personality-auction/deploy-kv.png)
+![Deploy](PNG%20FIles/personality-auction/deploy-kv.png)
 
