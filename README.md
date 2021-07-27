@@ -38,3 +38,11 @@ This application is an online auction system where you can bid on your specified
 ### Demo App
 
 Click [here](https://jacobj215.github.io/personality-market/frontend/index.html) to launch the PersonalityMarket application.
+
+
+## PersonalityMarket Testing Environment 
+
+Step 1. Deploy the PersonalityMarket 
+
+![Deploy](PNG%FIles/personality-auction/deploy-kv.png)
+
